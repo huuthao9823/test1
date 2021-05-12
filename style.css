@@ -1,0 +1,26 @@
+#header {
+    height: 70px;
+    width: 100%;
+    background-color: red;
+}
+
+#button-wrap {
+    width: 500px;
+    height: 50px;
+    display: block;
+}
+
+.text {
+    display: Flex;
+}
+
+#box {
+    display: flex;
+    background-color: aqua;
+    height: 70px;
+}
+
+#button {
+    display: block;
+    height: 70px;
+}
